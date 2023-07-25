@@ -1,0 +1,19 @@
+{
+    "producto": [
+        {
+            "Id_Producto": "283",
+            "Nombre": "Gafas de Sol",
+            "Marca": "Acme",
+            "Disponible": "20",
+            "Precio": "9800",
+            "Temporada": "Verano 2023"
+        }
+    ],
+    "características": [
+    {
+        "color": "negro",
+        "marco": "metal"
+    }
+    ]
+
+}
